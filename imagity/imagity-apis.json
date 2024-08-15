@@ -3,7 +3,7 @@
         "model_name": "Magic AI",
         "api_endpoint": "https:\/\/browser.foganime.com\/imagity\/magicstudio.php",
         "estimate_time": 20,
-        "api_type": "free",
+        "api_type": "paid",
         "api_status": "active"
     },
     {
@@ -17,7 +17,7 @@
         "model_name": "Stable Diffusion 3 Medium",
         "api_endpoint": "https:\/\/browser.foganime.com\/imagity\/stable-diffusion-3-medium.php",
         "estimate_time": 33,
-        "api_type": "free",
+        "api_type": "paid",
         "api_status": "active"
     }
 ]
