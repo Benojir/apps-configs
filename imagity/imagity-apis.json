@@ -1,23 +1,23 @@
 [
     {
-        "model_name": "Magic AI",
+        "model_name": "✨ Magic AI",
         "api_endpoint": "https:\/\/browser.foganime.com\/imagity\/magicstudio.php",
         "estimate_time": 20,
-        "api_type": "paid",
+        "api_type": "free",
         "api_status": "active"
     },
     {
-        "model_name": "Stable Diffusion XL",
+        "model_name": "✨ Stable Diffusion XL",
         "api_endpoint": "https:\/\/browser.foganime.com\/imagity\/Stable-Diffusion-XL.php",
         "estimate_time": 17,
-        "api_type": "paid",
+        "api_type": "free",
         "api_status": "active"
     },
     {
-        "model_name": "Stable Diffusion 3 Medium",
+        "model_name": "✨ Stable Diffusion 3 Medium",
         "api_endpoint": "https:\/\/browser.foganime.com\/imagity\/stable-diffusion-3-medium.php",
         "estimate_time": 33,
-        "api_type": "paid",
+        "api_type": "free",
         "api_status": "active"
     }
 ]
