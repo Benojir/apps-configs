@@ -11,7 +11,7 @@
         "api_endpoint": "https:\/\/browser.foganime.com\/imagity\/Stable-Diffusion-XL.php",
         "estimate_time": 17,
         "api_type": "free",
-        "api_status": "active"
+        "api_status": "inactive"
     },
     {
         "model_name": "✨ Stable Diffusion 3 Medium",
